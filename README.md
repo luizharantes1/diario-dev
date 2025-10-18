@@ -10,8 +10,11 @@ Meu diário de evolução como dev (commits, branches e anotações)
 - Extensões essenciais configuradas  
 
 **Aprendido:** o que é SSH, diferença entre chave pública/privada e teste de autenticação.
-# garantir que está na branch certa
-git checkout feat/dia-0-anotacoes
+### Dia 1 — Git na prática (branch → commit → PR → merge) ✅
+- Criei e gerenciei branches com `git checkout -b`
+- Fiz commits seguindo o padrão **Conventional Commits**
+- Aprendi o fluxo completo de versionamento:
+  `editar → commit → push → pull request → merge`
+- Entendi como manter a `main` sempre atualizada com `git pull`
 
-# ver se há algo diferente no README
-git status
+**Aprendido:** o Git é mais do que salvar versões — é colaboração, clareza e histórico bem documentado.
