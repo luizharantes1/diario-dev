@@ -18,3 +18,11 @@ Meu diário de evolução como dev (commits, branches e anotações)
 - Entendi como manter a `main` sempre atualizada com `git pull`
 
 **Aprendido:** o Git é mais do que salvar versões — é colaboração, clareza e histórico bem documentado.
+### Dia 2 a 4 — Git avançado, HTTP, REST e fundamentos Java ✅
+- Praticado o fluxo completo de versionamento (branch → commit → PR → merge)
+- Entendido o funcionamento do HTTP, REST e JSON
+- Instaladas e testadas ferramentas de apoio: Postman e DBeaver
+- Revisados tipos primitivos e estruturas de repetição (`for`, `while`)
+- Criada a classe `ContaBancaria` aplicando os conceitos de POO
+
+**Aprendido:** como o versionamento organiza o trabalho em equipe, como as APIs trocam dados via JSON, e como a lógica e POO estruturam o pensamento de um desenvolvedor.
