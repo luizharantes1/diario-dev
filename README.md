@@ -26,3 +26,25 @@ Meu diário de evolução como dev (commits, branches e anotações)
 - Criada a classe `ContaBancaria` aplicando os conceitos de POO
 
 **Aprendido:** como o versionamento organiza o trabalho em equipe, como as APIs trocam dados via JSON, e como a lógica e POO estruturam o pensamento de um desenvolvedor.
+
+## 🗓️ Dia 5 — Primeiros passos com Spring Boot 🚀
+
+Hoje iniciei o projeto **gestao-tarefas**, meu primeiro projeto Java com **Spring Boot**.  
+Aprendi a gerar o projeto pelo *Spring Initializr*, entender a estrutura do `pom.xml`, configurar o Maven e executar o servidor localmente.
+
+Implementei meu primeiro **controller REST** com o endpoint `/hello`, retornando uma resposta JSON com:
+- mensagem de status da API  
+- autor do projeto  
+- versão  
+- timestamp  
+
+Adicionei também o endpoint `/health` para monitorar o status da aplicação.
+
+**Principais aprendizados:**
+- Estrutura padrão de um projeto Spring Boot  
+- Função do arquivo `pom.xml`  
+- Uso de `@RestController` e `@GetMapping`  
+- Personalização via `application.properties`  
+- Execução com `./mvnw spring-boot:run`
+
+**Status:** 🟢 Projeto rodando localmente em `http://localhost:8081`
